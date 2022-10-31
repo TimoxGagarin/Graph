@@ -1,0 +1,4 @@
+﻿  Graph.c
+D:\Programming\csharp\Graph\Graph\Graph.c(13,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programming\csharp\Graph\Graph\Graph.c(27,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Graph.vcxproj -> D:\Programming\csharp\Graph\x64\Debug\Graph.exe
